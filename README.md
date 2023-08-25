@@ -2,15 +2,16 @@
 
 ## Prewiev
 
-### ${Auto-coloured script\ when\ {\color{yellow}[E]}}\ Title$
+### ${Auto-coloured\ script\ when\ {\color{yellow}[E]}}\ Title$
 
 
 ![doorlock](https://github.com/c0denest/qb-doorlock/assets/143138850/b5b35ebd-d0a0-4e16-91af-c48f0c2f2772)
 
+## Required
+* [qb-lock](https://github.com/c0denest/qb-lock) `np style my edit`
 
 ## @
 * https://github.com/Graz8/qb-doorlock-CSS-edit
-
 
 <br>
 
