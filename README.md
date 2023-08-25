@@ -4,7 +4,7 @@
 
 Auto-coloured script when "[E]" is detected.
 
-<img alt="Awesome GitHub Profile Readme" src="https://media.discordapp.net/attachments/1142641072955195443/1142641073244614778/doorlock.gif"> </img>
+![doorlock](https://github.com/c0denest/qb-doorlock/assets/143138850/b5b35ebd-d0a0-4e16-91af-c48f0c2f2772)
 
 
 ## @
