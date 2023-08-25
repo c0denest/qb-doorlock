@@ -4,7 +4,7 @@
 
 Auto-coloured script when "[E]" is detected.
 
-[![Discord](https://media.discordapp.net/attachments/1142641072955195443/1142641073244614778/doorlock.gif)](https://discord.gg/NC3NxVWKxk)
+<img alt="Awesome GitHub Profile Readme" src="https://media.discordapp.net/attachments/1142641072955195443/1142641073244614778/doorlock.gif"> </img>
 
 
 ## @
